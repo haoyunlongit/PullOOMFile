@@ -1,0 +1,13 @@
+@import 'antd/dist/reset.css';
+
+.container {
+  background: white;
+  padding: 24px;
+  min-height: 280px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+body {
+  background: #f0f2f5;
+} 
